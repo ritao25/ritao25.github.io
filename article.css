@@ -1,0 +1,32 @@
+h1 {
+  color:maroon;
+  font-size: 42px;
+}
+
+body{
+  font-size:18px;
+}
+
+article{
+  padding: 10px 60px;
+}
+
+img {
+  max-width: 100%;
+}
+
+.byline{
+  font-weight: bold;
+}
+
+.dateline{
+  font-style: italic;
+}
+
+figure{
+  margin: 10px;
+}
+
+.figcaption{
+  font-style: italic;
+}
