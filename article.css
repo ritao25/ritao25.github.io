@@ -1,14 +1,10 @@
 h1 {
-  color:maroon;
-  font-size: 42px;
+  font-weight: bold;
+  font-size: 26px;
 }
 
 body{
   font-size:18px;
-}
-
-article{
-  padding: 10px 60px;
 }
 
 img {
@@ -17,16 +13,52 @@ img {
 
 .byline{
   font-weight: bold;
+  font-size: 14px;
 }
 
 .dateline{
   font-style: italic;
+  font-size: 14px;
 }
 
-figure{
+figure {
   margin: 10px;
 }
 
-.figcaption{
+figcaption{
   font-style: italic;
+  font-size: 14px;
+}
+body{
+  font-family: 'PT Serif', serif;
+}
+
+.fa {
+    padding: 20px;
+    font-size: 40px;
+    width: 10px;
+    text-align: center;
+    text-decoration: none;
+}
+
+/* Facebook */
+.fa-facebook {
+    background: #3B5998;
+    color: white;
+}
+
+/* Twitter */
+.fa-twitter {
+    background: #55ACEE;
+    color: white;
+}
+
+/* Instagram */
+.fa-instagram {
+    background: #cd486b;
+    color: white;
+}
+
+div{
+  text-align: right;
 }
